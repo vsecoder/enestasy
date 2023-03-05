@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/enestasy/static/js/main.95ffb7b5.js",
+    "static/js/787.d18766b3.chunk.js": "/enestasy/static/js/787.d18766b3.chunk.js",
+    "static/media/avatar.png": "/enestasy/static/media/avatar.5c799ede11a75fe18f5a.png",
+    "index.html": "/enestasy/index.html",
+    "main.95ffb7b5.js.map": "/enestasy/static/js/main.95ffb7b5.js.map",
+    "787.d18766b3.chunk.js.map": "/enestasy/static/js/787.d18766b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.95ffb7b5.js"
+  ]
+}
