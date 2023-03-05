@@ -41,7 +41,7 @@ function App() {
                 (
                 <Link href="https://t.me/enestasy7" color="teal.500" isExternal>А ты уже поздравил меня с ДР?</Link>
                 ) : (
-                <Link href="https://t.me/enestasy" color="teal.500" isExternal>Telegram</Link>
+                <Link href="https://t.me/enestasy7" color="teal.500" isExternal>Telegram</Link>
                 )
               }
               </Text>
