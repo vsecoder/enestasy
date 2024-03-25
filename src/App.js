@@ -34,7 +34,7 @@ function App() {
                 Moscow Lyceum student
               </Text>
               <Text>
-                <Code fontSize="xl">IT business</Code> <Code fontSize="xl">Manager</Code>
+                <Code fontSize="xl">IT business</Code> <Code fontSize="xl">Manager</Code> <Code fontSize="xl">Designer</Code>
               </Text>
               <Text>
                 {month === 10 && day === 21 ?
